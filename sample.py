@@ -10,3 +10,4 @@ c = a + b
 print('a:', a)
 print('b:', b)
 print('c:', c)
+print('d:',a/b)
